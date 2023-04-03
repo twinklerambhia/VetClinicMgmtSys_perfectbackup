@@ -1,0 +1,17 @@
+E:\repositories\PetClinicManagement\PetClinicManagement\bin\Debug\PetClinicManagement.exe.config
+E:\repositories\PetClinicManagement\PetClinicManagement\bin\Debug\PetClinicManagement.exe
+E:\repositories\PetClinicManagement\PetClinicManagement\bin\Debug\PetClinicManagement.pdb
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.csproj.AssemblyReference.cache
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.csproj.SuggestedBindingRedirects.cache
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.Doctors.resources
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.Pets.resources
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.Properties.Resources.resources
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.Receptionists.resources
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.RegistrationReceptionist.resources
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.csproj.GenerateResource.cache
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.csproj.CoreCompileInputs.cache
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.exe
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.pdb
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.LoginPage.resources
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.Treatments.resources
+E:\repositories\PetClinicManagement\PetClinicManagement\obj\Debug\PetClinicManagement.Dashboard.resources
