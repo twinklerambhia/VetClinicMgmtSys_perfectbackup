@@ -20,7 +20,7 @@ This system manages data about pets, their owners, doctors, and receptionists at
 
 ## Usage
 1. Create receptionist account
-3. Login as a receptionist or doctor to manage appointments and view pet/owner information
+3. Login as a receptionist or doctor to manage and view pet/owner information
 4. Login as an admin to manage users and view data reports
 
 ## Disclaimer
