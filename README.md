@@ -1,4 +1,4 @@
-# perfectbackup_PetMgmtSys
+# Veterinary Clinic Management System (perfectbackup)
 This system manages data about pets, their owners, doctors, and receptionists at a veterinary clinic. It allows receptionists to manage and view pet and owner information, while doctors can view medical histories and prescribe treatments. The admin has access to all features, including user management and data reporting.
 
 ## Features
